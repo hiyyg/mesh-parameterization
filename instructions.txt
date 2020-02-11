@@ -1,0 +1,17 @@
+Please run the examples, 
+look at the code to get familiar with how meshes are handled.
+The example codes will help you throughout your project.
+
+Available functions allow computing
+-loading and plotting triangle meshes
+-rotate-zoom, pan on 3d meshes with the mouse
+-plotting quadrilateral meshes (usfeul for subdivision)
+-computing Laplacian matrix of a mesh.
+-Boundary loops
+-picking vertices with the mouse on 3D meshes (without the annoying data tip)
+-the file useful matrices contains some usefull tricks. 
+
+Good luck
+Geometric modeling WS 2019/20
+--Rhaleb 
+P.S.: Please do not distribute. Thank you!
