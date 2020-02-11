@@ -7,4 +7,7 @@ Given a surface mesh with boundary:
 * Perform a flattening of the mesh onto the plane while maintaining a low distortion.
 * Visualize the flattened mesh using the normal of the original 3D mesh
 
+<br />
+<img src="/result.png" alt="" />
+
 Find the full report [here](/project_presentation.pdf)
