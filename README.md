@@ -10,4 +10,19 @@ Given a surface mesh with boundary:
 <br />
 <img src="/result.png" alt="" />
 
-Find the full report [here](/project_presentation.pdf)
+## Quick Start
+
+Some example meshes are readily available in /samplemeshes for testing
+
+Run main.m in MATLAB to view original mesh, it's intrinsic parameterization, texture in parameterized(uv) space and the  mesh after mapping texture
+
+## More info
+
+This is a simple implementation of discrete conformal parameterization with boundary constraints as described in the following paper,
+
+Desbrun, Mathieu et al. “Intrinsic Parameterizations of Surface Meshes.” Comput. Graph. Forum 21 (2002): 209-218.
+
+
+
+Find the full report [here](/project_presentation.pdf). You can also refer the [project page](https://navamikairanda.wixsite.com/navami/mesh-parameterization) for more information
+
